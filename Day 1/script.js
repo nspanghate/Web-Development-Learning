@@ -1,0 +1,1 @@
+alert("WELCOME TO THIS PAGE")
